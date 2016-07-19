@@ -91,17 +91,90 @@ background-color: white;
 	height: 1000px;
 }
 #about .mainColor{
-	background-color: yellow;
+	background-color: white;
 }
 #team{
 	height: 800px;
 }
 #team .mainColor{
-	background-color: red;
+	background-color: #EEEEEE;
 }
 #contact{
 	height: 500px;
 }
 #contact .mainColor{
 	background-color: gray;
+}
+#about h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+#about h6 {
+	padding: 20px 0;
+	font-style: italic;
+	background-color: yellow;
+}
+#team h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+#team h6 {
+	padding: 20px 0;
+	font-style: italic;
+	
+}
+#team h3{
+	text-transform: uppercase;
+	font-weight: 400;
+
+}
+ul li a{
+	display: block;
+    background-color: #222;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    color: #fff;
+    text-decoration: none;
+    float: left;
+}
+ul li{
+	    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.p{
+
+	position: relative;
+	padding-left: 15px;
+	padding-right:15px;
+	font-size:16px;
+
+}
+.img-circle
+{
+	 border:8px solid white;
+}
+.color1
+{
+	background-color: white;
+}
+.rowheight
+{
+	height: 100px;
+}
+.marginheight{
+	padding-top: 100px;
+}
+.colorcontact{
+	background-color: black;
+	color:white;
+}
+.buton
+{
+  background-color: yellow;
+  color: white;
+  
 }
