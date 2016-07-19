@@ -178,3 +178,13 @@ ul li{
   color: white;
   
 }
+.photo1
+{
+	margin-left: -400px;
+
+	border: 10px solid white;
+}
+.photo2
+{
+	margin-right: 0px;
+}
